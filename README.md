@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [![Telegram ROM Channel](https://img.shields.io/badge/%40ReallySnow_ROM-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/ReallySnow_ROM)
 [![Telegram Channel (NFSW)](https://img.shields.io/badge/%40NekoH2-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/NekoH2)
 [![Telegram Group](https://img.shields.io/badge/%40ReallySnowChat-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/ReallySnowChat)
-[![Website](https://img.shields.io/badge/Website-FFA8BE?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=FFA8BE)](https://home.reallysnow.top)
+[![Website](https://img.shields.io/badge/Website-FFA8BE?style=flat-square&logo=google-chrome&logoColor=FFFFFF&labelColor=FFA8BE)](https://home.reallysnow.moe)
 
 ### 💰 Buy me a coffee
 * [爱发电](https://afdian.net/@really_snow)
