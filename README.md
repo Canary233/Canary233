@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 [![Pixel 2 XL](https://img.shields.io/badge/Pixel%202%20XL-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
 [![Pixel 3 XL](https://img.shields.io/badge/Pixel%203%20XL-00C000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=00C000)](https://store.google.com/)
-[![Xiaomi 6X](https://img.shields.io/badge/Xiaomi%206X-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/a/h/6181.html)
 [![iPhone 11](https://img.shields.io/badge/iPhone%2011-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/iphone-11/specs/)
 [![Legion Y7000](https://img.shields.io/badge/Legion%20Y7000-00BBFF?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=00BBFF)](https://activity.lenovo.com.cn/xiaofei/zjz/hdy.html)
 [![Mac Mini](https://img.shields.io/badge/MacMini-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/mac-mini/)
