@@ -57,4 +57,4 @@ Here are some ideas to get you started:
      03B5 C64F 238B DF57 0636 4AC1 069E 45A5 E58B 24E2
 
 
-[Pubilc Key](https://reallysnow.top/usr/uploads/2021/09/3540643273.txt)
+[Pubilc Key](https://reallysnow.moe/usr/uploads/2021/09/3540643273.txt)
