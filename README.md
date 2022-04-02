@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Canary233&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 ### Hi there 👋 I'm Canary233
-- 🌱 I’m learning Android ,Swift and flutter
+- 🌱 I’m learning C++,Python
 - 📫 Email: 2096276316@qq.coms
 - 🥰 Like kawall things
 
