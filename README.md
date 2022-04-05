@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Canary233
 - 🌱 I’m learning C++,Python
-- 📫 Email: 2096276316@qq.coms
+- 📫 Email: 2096276316@qq.com
 - 🥰 Like kawall things
 
 ### 💻 Environment
