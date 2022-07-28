@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Canary233
 - 🌱 I’m learning C++,Python
-- 📫 Email: 2096276316@qq.com
-- 🥰 Like kawall things
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
