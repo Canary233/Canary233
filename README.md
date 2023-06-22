@@ -19,12 +19,8 @@ Here are some ideas to get you started:
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
-[![Debian Linux](https://img.shields.io/badge/Debian%20bullseye-00BBFF?style=flat-square&logo=Debian&logoColor=AA3E22&labelColor=00BBFF)](https://www.debian.org/)
-[![macOS](https://img.shields.io/badge/macOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/big-sur/)
+[![Debian Linux](https://img.shields.io/badge/Arch%20Linux-00BBFF?style=flat-square&logo=archlinux&logoColor=AA3E22&labelColor=00BBFF)]([https://www.debian.org/](https://archlinux.org))
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
 
 ### 📱 Devices
 [![Redmi K20 Pro ](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/redmik20pro)
-
-### 📫 Contact me
-[![Telegram](https://img.shields.io/badge/%40XieFox-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/Canary233)
