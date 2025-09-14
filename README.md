@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 🌱 I’m learning C,Python
 
 ### 💻 Environment
-[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
-[![Debian Linux](https://img.shields.io/badge/Arch%20Linux-00BBFF?style=flat-square&logo=archlinux&logoColor=AA3E22&labelColor=00BBFF)]([https://www.debian.org/](https://archlinux.org))
-[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
+![Windows 11](https://img.shields.io/badge/-Windows_11-00BBFF?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=)
+![Proxmox VE](https://img.shields.io/badge/-Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=%23FFFFFF&labelColor=%23E57000)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=%23FFFFFF&labelColor=%231793D1)
 
 ### 📱 Devices
 [![Xiaomi13](https://img.shields.io/badge/Xiaomi13-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/xiaomi-13)
